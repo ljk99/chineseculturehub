@@ -8,7 +8,6 @@
 * Translate Anything about China, Make the World Know China Better~~!
 
 ## Welcome to join us！
-----
 - 中华文化的收集、整理、翻译、传播！
 - 每天的中文资料万万千千，其中转化为英文，让全世界了解中国的，不足百万分之一。
 - 我们要做的是：让世界更了解中国！
@@ -19,5 +18,4 @@
 - 简单点说：给我们一个你喜欢的关键词，还你一个中英文网站！
 
 ## 提交新主题
-----
 欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您感兴趣的话题
