@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Chinese Culture Hub
 
-You can use the [editor on GitHub](https://github.com/ljk99/chineseculturehub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 语料库收集，人工智能，机器学习，自动写作
+* 搜索引擎优化，SEO，长尾关键词
+* 自媒体主题库，素材库
+* 文档自动多重归类索引 multi-classification
+* 网上的资料都是零星杂乱的，收集到一些资料进行多重归类并索引，以方便阅读。
+* Translate Anything about China, Make the World Know China Better~~!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to join us！
+----
+- 中华文化的收集、整理、翻译、传播！
+- 每天的中文资料万万千千，其中转化为英文，让全世界了解中国的，不足百万分之一。
+- 我们要做的是：让世界更了解中国！
 
-### Markdown
+- 您需要做的仅仅只是提交一个主题关键词！！
+- 这关键词一旦通过审核，我们就会根据这个搜集相关方面的中文资料，然后用人工智能翻译成英文。
+- 您将会得到已经成千上万篇与您所提交的关键词相关的中英文资料，这些资料还已经进行了分门别类！
+- 简单点说：给我们一个你喜欢的关键词，还你一个中英文网站！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljk99/chineseculturehub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 提交新主题
+----
+欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您感兴趣的话题
